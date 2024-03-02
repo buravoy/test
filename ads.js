@@ -1,0 +1,1 @@
+(MRGtag = window.MRGtag || []).push({});
